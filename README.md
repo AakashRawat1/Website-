@@ -3,7 +3,7 @@
 <TITLE>CRISTIANO RONALDO</TITLE>
 </HEAD>
 <BODY BACKGROUND="![imagesource](https://user-images.githubusercontent.com/81602641/112930228-89705000-9137-11eb-95ed-f44e67a66e4a.jpg)" height=50% width=50%>
-<center><IMG SRC="![logo](https://user-images.githubusercontent.com/81602641/112930537-1a472b80-9138-11eb-9d10-6153e445f274.jpg)" Height=10% Width=10%></center>
+<center><IMG SRC=" https://user-images.githubusercontent.com/81602641/112930537-1a472b80-9138-11eb-9d10-6153e445f274.jpg" Height=10% Width=10%></center>
 <H6><center><Font Color="white" Size="8"Face="Algerian"><B><U><I>Football - Players</I></U></B></Font></center></H6>
 <Font Color="orange"Size="6"Face="Algerian">1. CRISTIANO RONALDO</Font>
 <P><Font Color="red" Size="6"Face="Algerian"><j>Cristiano Ronaldo dos Santos Aveiro was born on 5 February 1985.He is a Portuguese professional footballer who plays as a forward for Serie A club Juventus and captains the Portugal national team. Often considered the best player in the world and widely regarded as one of the greatest players of all time.</j></Font></P>
