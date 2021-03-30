@@ -7,7 +7,7 @@
 <H6><center><Font Color="white" Size="8"Face="Algerian"><B><U><I>Football - Players</I></U></B></Font></center></H6>
 <Font Color="orange"Size="6"Face="Algerian">1. CRISTIANO RONALDO</Font>
 <P><Font Color="red" Size="6"Face="Algerian"><j>Cristiano Ronaldo dos Santos Aveiro was born on 5 February 1985.He is a Portuguese professional footballer who plays as a forward for Serie A club Juventus and captains the Portugal national team. Often considered the best player in the world and widely regarded as one of the greatest players of all time.</j></Font></P>
-<center><IMG SRC="![wp4380951](https://user-images.githubusercontent.com/81602641/112930509-0bf90f80-9138-11eb-8176-01e0c35dfc0e.jpg)" Height=50% Width=50%> <center>
+<center><IMG SRC=" https://user-images.githubusercontent.com/81602641/112930509-0bf90f80-9138-11eb-8176-01e0c35dfc0e.jpg " Height=50% Width=50%> <center>
 <ol type="1">
 <li><b><font size="8" color="white" Face="Algerian"><u>Achievements</u></font></b></li>
 <P><Font Color="red" Size="6"Face="Algerian"> Cristiano Ronaldo has received five Ballon d'Or awards. Ronaldo holds the record for most goals in the UEFA Champions League(130). Ronaldo also received the Premier League Golden Boot and the Pichichi Trophy in the respective seasons. He has won 30 major trophies in his career, including seven league titles, five UEFA Champions Leagues, one UEFA European Championship,and one UEFA Nations League title.</Font></P>
